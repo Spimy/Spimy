@@ -15,4 +15,4 @@
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)
 [<img src="https://avatars0.githubusercontent.com/u/41522403?s=200&v=4" alt="xd logo" width="24">](https://www.adobe.com/products/xd.html)
-[<img src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" alt="gimp logo" width="24">](https://discord.gg/865tNC4/)
+[<img src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" alt="gimp logo" width="24">](https://discord.com/invite/865tNC4/)
