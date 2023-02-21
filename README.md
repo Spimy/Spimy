@@ -1,8 +1,8 @@
 ### Hi. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px">
 
-[![Mail Badge](https://img.shields.io/badge/gmail-officialspyme%40gmail.com-blue)](mailto:officialspyme@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/spimy-william%40spimy.dev-blue)](mailto:william@spimy.dev)
 [![Twitter Badge](https://img.shields.io/badge/-@officialspimy_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://twitter.com/officialspimy)](https://twitter.com/officialspimy)
-<a href="https://www.instagram.com/officialspimy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/william3001_lhw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support-☕-orange.svg?style=flat-square)](https://www.buymeacoffee.com/spimy)
 [![GitHub followers](https://img.shields.io/github/followers/spimy.svg?style=flat-square&label=Follow&maxAge=2592000)](https://github.com/spimy?tab=followers)
 
